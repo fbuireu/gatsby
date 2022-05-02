@@ -1,4 +1,9 @@
-<p align="center">
+# Gatsby 
+You’re now entering a forked repository. At some point, I must have helped out or maybe I fixed part of its source code or contributed in other ways. The repository is now archived, read at your own risk.
+
+<details>
+  <summary>Find below the original README.md</summary>
+  <p align="center">
   <a href="https://www.gatsbyjs.com">
     <img alt="Gatsby" src="https://www.gatsbyjs.com/Gatsby-Monogram.svg" width="60" />
   </a>
@@ -178,3 +183,5 @@ Licensed under the [MIT License](./LICENSE).
 Thanks goes out to all our many contributors creating plugins, starters, videos, and blog posts. And a special appreciation for our community members helping with issues and PRs, or answering questions on Discord and GitHub Discussions.
 
 A big part of what makes Gatsby great is each and every one of you in the community. Your contributions enrich the Gatsby experience and make it better every day.
+
+  </details>
